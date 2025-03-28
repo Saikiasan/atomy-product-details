@@ -1237,6 +1237,21 @@
         "imageUrl": "https://www.atomy.com/in/shopping/p_img/100/04717_2.jpg",
         "buyer_price": 1000.0
     },
+    "D04086": {
+        "hrefUrlE": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D04086",
+        "gds": "D04086",
+        "title": "Atomy Moringa",
+        "points": 5500,
+        "dist_price": 754.02,
+        "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/04086_2.jpg",
+        "detailImages": [
+            "https://www.atomy.com/in/admin/userfiles/202503/IN_moringa_01_1.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202503/IN_moringa_02 v1_1.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202503/IN_moringa_03_20250225_1.jpg"
+        ],
+        "imageUrl": "https://www.atomy.com/in/shopping/p_img/100/04086_2.jpg",
+        "buyer_price": 899.0
+    },
     "D02479": {
         "hrefUrlE": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D02479",
         "gds": "D02479",
