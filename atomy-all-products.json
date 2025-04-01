@@ -209,26 +209,6 @@
         "imageUrl": "https://www.atomy.com/in/shopping/p_img/100/00003_2.jpeg",
         "buyer_price": 9100.0
     },
-    "D00160": {
-        "hrefUrlE": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00160",
-        "gds": "D00160",
-        "title": "Atomy Nutraceutical Mix",
-        "points": 22000,
-        "dist_price": 3894.0,
-        "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00160_2.JPG",
-        "detailImages": [
-            "https://www.atomy.com/in/admin/userfiles/202204/IN_probiotics_01.gif",
-            "https://www.atomy.com/in/admin/userfiles/202204/IN_address_2204.gif",
-            "https://www.atomy.com/in/admin/userfiles/202109/probiotics_IN_02.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202109/probiotics_IN_03.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202109/probiotics_IN_04.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202109/probiotics_IN_05.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202109/probiotics_IN_06.gif",
-            "https://www.atomy.com/in/admin/userfiles/202109/probiotics_IN_07.gif"
-        ],
-        "imageUrl": "https://www.atomy.com/in/shopping/p_img/100/00160_2.JPG",
-        "buyer_price": 4500.0
-    },
     "D00475": {
         "hrefUrlE": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00475",
         "gds": "D00475",
