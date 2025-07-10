@@ -197,6 +197,14 @@
         ],
         "mrp": 9100.0
     },
+    "D00160": {
+        "gds": "D00160",
+        "product_name": "Atomy Nutraceutical Mix",
+        "distributor_price": 3894.0,
+        "pv_points": 22000,
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00160",
+        "mrp": 4500.0
+    },
     "D00475": {
         "gds": "D00475",
         "product_name": "Cerabebe 3set",
@@ -331,24 +339,6 @@
             "https://www.atomy.com/in/admin/userfiles/202103/liptreatment_05.gif"
         ],
         "mrp": 600.0
-    },
-    "D00826": {
-        "gds": "D00826",
-        "product_name": "Sheet Laundry Detergent",
-        "distributor_price": 1298.0,
-        "pv_points": 7000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00826",
-        "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00826_2.jpg",
-        "detailImages": [
-            "https://www.atomy.com/in/admin/userfiles/202204/IN_sDetergent_01.gif",
-            "https://www.atomy.com/in/admin/userfiles/202204/IN_address_2204.gif",
-            "https://www.atomy.com/in/admin/userfiles/202112/IN_sDetergent_02.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202112/IN_sDetergent_03.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202112/IN_sDetergent_04.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202112/IN_sDetergent_05.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202112/IN_sDetergent_06.jpg"
-        ],
-        "mrp": 1600.0
     },
     "D00257": {
         "gds": "D00257",
@@ -1047,7 +1037,7 @@
     },
     "D92618": {
         "gds": "D92618",
-        "product_name": "English Pamphlet Foldable- Version 2024 (25 pcs per pack)",
+        "product_name": "English Pamphlet Foldable- Version 2025 (25 pcs per pack)",
         "distributor_price": 210.04,
         "pv_points": 0,
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D92618",
@@ -1057,7 +1047,7 @@
     },
     "D92453": {
         "gds": "D92453",
-        "product_name": "Mini Catalog 10 Pcs-(English)- Version Oct 2024",
+        "product_name": "Mini Catalog 10 Pcs-(English)- Version Apr 2025",
         "distributor_price": 500.0,
         "pv_points": 0,
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D92453",
@@ -1104,6 +1094,22 @@
             "http://www.atomy.com/in/admin/userfiles/202011/toothpaste_05.jpg"
         ],
         "mrp": 400.0
+    },
+    "D07142": {
+        "gds": "D07142",
+        "product_name": "Atomy 365 Anti Droplet Face Mask (Buy 1 Get 1 Free)",
+        "distributor_price": 2625.0,
+        "pv_points": 9000,
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D07142",
+        "mrp": 3200.0
+    },
+    "D07141": {
+        "gds": "D07141",
+        "product_name": "Atomy Anti Pollution Mask (KF94) (Buy 1 Get 1 Free)",
+        "distributor_price": 651.0,
+        "pv_points": 3000,
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D07141",
+        "mrp": 800.0
     },
     "D07116": {
         "gds": "D07116",
@@ -1227,24 +1233,6 @@
         ],
         "mrp": 1500.0
     },
-    "D00838": {
-        "gds": "D00838",
-        "product_name": "Atomy 365 Anti Droplet Face Mask (50 sheet)",
-        "distributor_price": 2625.0,
-        "pv_points": 9000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00838",
-        "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00838_2.jpg",
-        "detailImages": [
-            "https://www.atomy.com/in/admin/userfiles/202204/IN_mask365_01.gif",
-            "https://www.atomy.com/in/admin/userfiles/202204/IN_address_2204.gif",
-            "https://www.atomy.com/in/admin/userfiles/202108/q_living_lv2_IN.gif",
-            "https://www.atomy.com/in/admin/userfiles/202108/mask365_IN_02.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202108/mask365_IN_03.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202108/mask365_IN_04.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202108/mask365_IN_05.gif"
-        ],
-        "mrp": 3200.0
-    },
     "D00828": {
         "gds": "D00828",
         "product_name": "Fabric Detergent (1KG)",
@@ -1262,23 +1250,6 @@
             "https://www.atomy.com/in/admin/userfiles/202204/IN_fabricdetergentRE_06.jpg",
             "https://www.atomy.com/in/admin/userfiles/202204/IN_fabricdetergentRE_07.jpg",
             "https://www.atomy.com/in/admin/userfiles/202204/IN_fabricdetergentRE_08.gif"
-        ],
-        "mrp": 800.0
-    },
-    "D00808": {
-        "gds": "D00808",
-        "product_name": "Atomy Anti Pollution Mask [KF94]  (5 pcs)",
-        "distributor_price": 651.0,
-        "pv_points": 3000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00808",
-        "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00808_2.jpg",
-        "detailImages": [
-            "https://www.atomy.com/in/admin/userfiles/202204/IN_mask94_01.gif",
-            "https://www.atomy.com/in/admin/userfiles/202204/IN_address_2204.gif",
-            "https://www.atomy.com/in/admin/userfiles/202108/mask94_IN_02.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202108/mask94_IN_03.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202108/mask94_IN_04.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202108/mask94_IN_05.jpg"
         ],
         "mrp": 800.0
     },
@@ -1531,5 +1502,43 @@
             "https://www.atomy.com/in/admin/userfiles/202205/IN_hemohim_1.jpg"
         ],
         "mrp": 15000.0
+    },
+    "D00826": {
+        "gds": "D00826",
+        "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00826_2.jpg",
+        "detailImages": [
+            "https://www.atomy.com/in/admin/userfiles/202204/IN_sDetergent_01.gif",
+            "https://www.atomy.com/in/admin/userfiles/202204/IN_address_2204.gif",
+            "https://www.atomy.com/in/admin/userfiles/202112/IN_sDetergent_02.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202112/IN_sDetergent_03.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202112/IN_sDetergent_04.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202112/IN_sDetergent_05.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202112/IN_sDetergent_06.jpg"
+        ]
+    },
+    "D00838": {
+        "gds": "D00838",
+        "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00838_2.jpg",
+        "detailImages": [
+            "https://www.atomy.com/in/admin/userfiles/202204/IN_mask365_01.gif",
+            "https://www.atomy.com/in/admin/userfiles/202204/IN_address_2204.gif",
+            "https://www.atomy.com/in/admin/userfiles/202108/q_living_lv2_IN.gif",
+            "https://www.atomy.com/in/admin/userfiles/202108/mask365_IN_02.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202108/mask365_IN_03.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202108/mask365_IN_04.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202108/mask365_IN_05.gif"
+        ]
+    },
+    "D00808": {
+        "gds": "D00808",
+        "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00808_2.jpg",
+        "detailImages": [
+            "https://www.atomy.com/in/admin/userfiles/202204/IN_mask94_01.gif",
+            "https://www.atomy.com/in/admin/userfiles/202204/IN_address_2204.gif",
+            "https://www.atomy.com/in/admin/userfiles/202108/mask94_IN_02.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202108/mask94_IN_03.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202108/mask94_IN_04.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202108/mask94_IN_05.jpg"
+        ]
     }
 }

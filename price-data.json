@@ -5,7 +5,8 @@
         "product_name": "Compact Toothbrush 8N",
         "distributor_price": 885.0,
         "pv_points": 5500,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00511"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00511",
+        "mrp": 1050.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00510_2.jpg",
@@ -13,7 +14,8 @@
         "product_name": "Toothbrush 8N",
         "distributor_price": 900.0,
         "pv_points": 6200,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00510"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00510",
+        "mrp": 1050.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/01513_2.jpg",
@@ -21,7 +23,8 @@
         "product_name": "Atomy Absolute 24K Gold Night Mask",
         "distributor_price": 2714.0,
         "pv_points": 18000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D01513"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D01513",
+        "mrp": 3100.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/01507_2.jpg",
@@ -29,7 +32,8 @@
         "product_name": "Atomy Absolute Reset Balm",
         "distributor_price": 1062.0,
         "pv_points": 7000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D01507"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D01507",
+        "mrp": 1200.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00620_2.jpg",
@@ -37,7 +41,8 @@
         "product_name": "Saengmodan Hair Tonic",
         "distributor_price": 1062.0,
         "pv_points": 5700,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00620"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00620",
+        "mrp": 1300.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00521_2.jpg",
@@ -45,7 +50,8 @@
         "product_name": "Toothpaste 50g x 4 N",
         "distributor_price": 483.8,
         "pv_points": 1600,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00521"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00521",
+        "mrp": 600.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00183_2.jpg",
@@ -53,7 +59,8 @@
         "product_name": "Atomy Pomegranate Mixed Fruit Jelly",
         "distributor_price": 6401.5,
         "pv_points": 35000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00183"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00183",
+        "mrp": 7500.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00104_2.jpg",
@@ -61,7 +68,8 @@
         "product_name": "HemoHIM *4set",
         "distributor_price": 40120.0,
         "pv_points": 290000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00104"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00104",
+        "mrp": 60000.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00102_2.jpg",
@@ -69,7 +77,8 @@
         "product_name": "HemoHIM *2set",
         "distributor_price": 20650.0,
         "pv_points": 150000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00102"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00102",
+        "mrp": 30000.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/90178_2.jpeg",
@@ -77,7 +86,8 @@
         "product_name": "ATOMY 100% PURE* SPIRULINA (India)",
         "distributor_price": 560.5,
         "pv_points": 3000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D90178"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D90178",
+        "mrp": 699.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00281_2.jpeg",
@@ -85,7 +95,8 @@
         "product_name": "Sunscreen SPF50+ PA+++(Beige )",
         "distributor_price": 755.2,
         "pv_points": 3500,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00281"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00281",
+        "mrp": 900.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00003_2.jpeg",
@@ -93,7 +104,8 @@
         "product_name": "The Fame Skincare Set (5 Pcs per Set)",
         "distributor_price": 7906.0,
         "pv_points": 60000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00003"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00003",
+        "mrp": 9100.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00160_2.JPG",
@@ -101,7 +113,8 @@
         "product_name": "Atomy Nutraceutical Mix",
         "distributor_price": 3894.0,
         "pv_points": 22000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00160"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00160",
+        "mrp": 4500.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00475_2.jpg",
@@ -109,7 +122,8 @@
         "product_name": "Cerabebe 3set",
         "distributor_price": 3481.0,
         "pv_points": 18200,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00475"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00475",
+        "mrp": 4000.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00474_2.jpg",
@@ -117,7 +131,8 @@
         "product_name": "Atomy Cerabebe Shampoo & Bath",
         "distributor_price": 1121.0,
         "pv_points": 5900,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00474"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00474",
+        "mrp": 1300.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00351_2.jpeg",
@@ -125,7 +140,8 @@
         "product_name": "Evening Care Set(4 Pcs per Set)",
         "distributor_price": 2855.6,
         "pv_points": 13500,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00351"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00351",
+        "mrp": 3300.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00267_2.png",
@@ -133,7 +149,8 @@
         "product_name": "Absolute Nutrition Cream",
         "distributor_price": 2861.5,
         "pv_points": 20300,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00267"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00267",
+        "mrp": 3300.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00271_2.jpeg",
@@ -141,7 +158,8 @@
         "product_name": "Sunscreen SPF50+ PA+++(White )",
         "distributor_price": 755.2,
         "pv_points": 3500,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00271"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00271",
+        "mrp": 900.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00266_2.jpg",
@@ -149,7 +167,8 @@
         "product_name": "Healthy Glow Base SPF30 PA++",
         "distributor_price": 1168.2,
         "pv_points": 6000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00266"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00266",
+        "mrp": 1400.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00460_2.jpg",
@@ -157,7 +176,8 @@
         "product_name": "Lip Treatment",
         "distributor_price": 442.5,
         "pv_points": 2300,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00460"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00460",
+        "mrp": 600.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00257_2.png",
@@ -165,7 +185,8 @@
         "product_name": "Absolute Eye-Complex",
         "distributor_price": 3186.0,
         "pv_points": 23200,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00257"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00257",
+        "mrp": 3700.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00247_2.png",
@@ -173,7 +194,8 @@
         "product_name": "Absolute Lotion",
         "distributor_price": 2891.0,
         "pv_points": 20500,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00247"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00247",
+        "mrp": 3400.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00237_2.png",
@@ -181,7 +203,8 @@
         "product_name": "Absolute Serum",
         "distributor_price": 3186.0,
         "pv_points": 23100,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00237"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00237",
+        "mrp": 3700.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00217_2.png",
@@ -189,7 +212,8 @@
         "product_name": "Absolute Toner",
         "distributor_price": 2891.0,
         "pv_points": 20400,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00217"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00217",
+        "mrp": 3300.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00227_2.png",
@@ -197,7 +221,8 @@
         "product_name": "Absolute Ampoule",
         "distributor_price": 3894.0,
         "pv_points": 28600,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00227"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00227",
+        "mrp": 4500.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00207_2.png",
@@ -205,7 +230,8 @@
         "product_name": "Absolute Skincare Set",
         "distributor_price": 17228.0,
         "pv_points": 128000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00207"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00207",
+        "mrp": 20000.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00835_2.jpg",
@@ -213,7 +239,8 @@
         "product_name": "Stainless Scrubber 2N",
         "distributor_price": 295.0,
         "pv_points": 1000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00835"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00835",
+        "mrp": 400.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00832_2.jpg",
@@ -221,7 +248,8 @@
         "product_name": "Scrubber 4N",
         "distributor_price": 448.4,
         "pv_points": 1600,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00832"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00832",
+        "mrp": 600.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00693_2.jpg",
@@ -229,7 +257,8 @@
         "product_name": "Scalpcare 2 Set",
         "distributor_price": 2371.8,
         "pv_points": 12600,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00693"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00693",
+        "mrp": 2800.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00692_2.JPG",
@@ -237,7 +266,8 @@
         "product_name": "Scalpcare Hair Conditioner",
         "distributor_price": 1368.8,
         "pv_points": 7300,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00692"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00692",
+        "mrp": 1600.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00691_2.jpg",
@@ -245,7 +275,8 @@
         "product_name": "Scalpcare Hair Shampoo",
         "distributor_price": 1262.6,
         "pv_points": 6700,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00691"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00691",
+        "mrp": 1500.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00681_2.jpg",
@@ -253,7 +284,8 @@
         "product_name": "Hair Essential Oil",
         "distributor_price": 1050.2,
         "pv_points": 5800,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00681"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00681",
+        "mrp": 1300.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00661_2.jpg",
@@ -261,7 +293,8 @@
         "product_name": "Herbal Hair Conditioner",
         "distributor_price": 1156.4,
         "pv_points": 6500,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00661"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00661",
+        "mrp": 1400.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00631_2.jpg",
@@ -269,7 +302,8 @@
         "product_name": "Herbal Body Cleanser",
         "distributor_price": 873.2,
         "pv_points": 4000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00631"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00631",
+        "mrp": 1000.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00861_2.jpg",
@@ -277,7 +311,8 @@
         "product_name": "Liquid Laundry Detergent",
         "distributor_price": 1121.0,
         "pv_points": 5700,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00861"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00861",
+        "mrp": 1300.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00611_2.JPG",
@@ -285,7 +320,8 @@
         "product_name": "Herbal Hair Treatment",
         "distributor_price": 672.6,
         "pv_points": 3700,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00611"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00611",
+        "mrp": 800.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00755_2.jpeg",
@@ -293,7 +329,8 @@
         "product_name": "Hydra Brightening  capsule essence",
         "distributor_price": 1345.2,
         "pv_points": 9700,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00755"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00755",
+        "mrp": 1600.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00601_2.jpg",
@@ -301,7 +338,8 @@
         "product_name": "Herbal Hair Shampoo",
         "distributor_price": 1003.0,
         "pv_points": 6000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00601"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00601",
+        "mrp": 1200.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00756_2.jpeg",
@@ -309,7 +347,8 @@
         "product_name": "Hydra Brightening  cream",
         "distributor_price": 1345.2,
         "pv_points": 9700,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00756"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00756",
+        "mrp": 1600.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00541_2.jpeg",
@@ -317,7 +356,8 @@
         "product_name": "Hand Soap",
         "distributor_price": 424.8,
         "pv_points": 1500,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00541"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00541",
+        "mrp": 500.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/04006_2.jpg",
@@ -325,7 +365,8 @@
         "product_name": "Atomy Algae Omega3",
         "distributor_price": 4956.0,
         "pv_points": 37000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D04006"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D04006",
+        "mrp": 5800.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00520_2.jpg",
@@ -333,7 +374,8 @@
         "product_name": "Oral Care System*1set",
         "distributor_price": 1109.2,
         "pv_points": 6700,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00520"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00520",
+        "mrp": 1300.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00311_2.jpg",
@@ -341,7 +383,8 @@
         "product_name": "Evening Care Peeling Gel",
         "distributor_price": 755.2,
         "pv_points": 3500,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00311"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00311",
+        "mrp": 900.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00501_2.jpg",
@@ -349,7 +392,8 @@
         "product_name": "Toothpaste 200g X 5 N",
         "distributor_price": 1711.0,
         "pv_points": 4300,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00501"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00501",
+        "mrp": 2000.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00331_2.JPG",
@@ -357,7 +401,8 @@
         "product_name": "Evening Care Peel Off Mask",
         "distributor_price": 755.2,
         "pv_points": 3500,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00331"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00331",
+        "mrp": 900.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00321_2.jpg",
@@ -365,7 +410,8 @@
         "product_name": "Evening Care Deep Cleanser",
         "distributor_price": 755.2,
         "pv_points": 3500,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00321"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00321",
+        "mrp": 900.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00768_2.jpg",
@@ -373,7 +419,8 @@
         "product_name": "A.C. Expert System Set",
         "distributor_price": 5133.0,
         "pv_points": 37000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00768"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00768",
+        "mrp": 6300.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00301_2.jpg",
@@ -381,7 +428,8 @@
         "product_name": "Evening Care Foam Cleanser",
         "distributor_price": 755.2,
         "pv_points": 3500,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00301"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00301",
+        "mrp": 900.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00261_2.jpg",
@@ -389,7 +437,8 @@
         "product_name": "BB Cream SPF30 PA++",
         "distributor_price": 708.0,
         "pv_points": 3300,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00261"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00261",
+        "mrp": 900.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00198_2.jpg",
@@ -397,7 +446,8 @@
         "product_name": "The Fame Nutrition Cream",
         "distributor_price": 1675.6,
         "pv_points": 12300,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00198"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00198",
+        "mrp": 2000.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00196_2.jpg",
@@ -405,7 +455,8 @@
         "product_name": "The Fame Lotion",
         "distributor_price": 1675.6,
         "pv_points": 12300,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00196"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00196",
+        "mrp": 2000.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/92680_2.jpeg",
@@ -413,7 +464,8 @@
         "product_name": "Atomy T-Shirt (S)-1N",
         "distributor_price": 378.0,
         "pv_points": 0,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D92680"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D92680",
+        "mrp": 378.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00194_2.jpg",
@@ -421,7 +473,8 @@
         "product_name": "The Fame Essence",
         "distributor_price": 1758.2,
         "pv_points": 13000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00194"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00194",
+        "mrp": 2100.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/92681_2.jpeg",
@@ -429,7 +482,8 @@
         "product_name": "Atomy T-Shirt (M)-1N",
         "distributor_price": 378.0,
         "pv_points": 0,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D92681"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D92681",
+        "mrp": 378.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00192_2.jpg",
@@ -437,7 +491,8 @@
         "product_name": "The Fame Eye Cream",
         "distributor_price": 1675.6,
         "pv_points": 12300,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00192"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00192",
+        "mrp": 2000.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/92676_2.jpeg",
@@ -445,7 +500,8 @@
         "product_name": "Atomy T-Shirt (L)-1N",
         "distributor_price": 378.0,
         "pv_points": 0,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D92676"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D92676",
+        "mrp": 378.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00190_2.JPG",
@@ -453,7 +509,8 @@
         "product_name": "The Fame Toner",
         "distributor_price": 1675.6,
         "pv_points": 12300,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00190"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00190",
+        "mrp": 2000.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/92677_2.jpeg",
@@ -461,7 +518,8 @@
         "product_name": "Atomy T-Shirt (XL)-1N",
         "distributor_price": 378.0,
         "pv_points": 0,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D92677"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D92677",
+        "mrp": 378.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/92682_2.jpeg",
@@ -469,7 +527,8 @@
         "product_name": "Atomy T-Shirt (XXL)-1N",
         "distributor_price": 378.0,
         "pv_points": 0,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D92682"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D92682",
+        "mrp": 378.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/94085_2.jpg",
@@ -477,7 +536,8 @@
         "product_name": "Atomy Shilajit Capsules",
         "distributor_price": 784.0,
         "pv_points": 4000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D94085"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D94085",
+        "mrp": 899.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/94084_2.png",
@@ -485,7 +545,8 @@
         "product_name": "Atomy 100% Pure* Spirulina Powder",
         "distributor_price": 1652.0,
         "pv_points": 10000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D94084"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D94084",
+        "mrp": 1999.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/92658_2.jpg",
@@ -493,7 +554,8 @@
         "product_name": "Atomy Life Scenario (Including Moment of Truth)",
         "distributor_price": 150.0,
         "pv_points": 0,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D92658"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D92658",
+        "mrp": 150.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/92618_2.jpg",
@@ -501,7 +563,8 @@
         "product_name": "English Pamphlet Foldable- Version 2025 (25 pcs per pack)",
         "distributor_price": 210.04,
         "pv_points": 0,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D92618"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D92618",
+        "mrp": 210.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/92453_2.jpg",
@@ -509,7 +572,8 @@
         "product_name": "Mini Catalog 10 Pcs-(English)- Version Apr 2025",
         "distributor_price": 500.0,
         "pv_points": 0,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D92453"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D92453",
+        "mrp": 500.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/92445_2.jpeg",
@@ -517,7 +581,8 @@
         "product_name": "Shopping Bag(Non Woven)",
         "distributor_price": 28.0,
         "pv_points": 0,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D92445"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D92445",
+        "mrp": 28.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/92405_2.jpeg",
@@ -525,7 +590,8 @@
         "product_name": "Atomy Diary",
         "distributor_price": 531.0,
         "pv_points": 0,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D92405"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D92405",
+        "mrp": 531.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/90501_2.jpeg",
@@ -533,7 +599,8 @@
         "product_name": "Atomy Toothpaste 200g x1N",
         "distributor_price": 354.0,
         "pv_points": 850,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D90501"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D90501",
+        "mrp": 400.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/07142_2.jpg",
@@ -541,7 +608,8 @@
         "product_name": "Atomy 365 Anti Droplet Face Mask (Buy 1 Get 1 Free)",
         "distributor_price": 2625.0,
         "pv_points": 9000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D07142"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D07142",
+        "mrp": 3200.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/07141_2.jpg",
@@ -549,7 +617,8 @@
         "product_name": "Atomy Anti Pollution Mask (KF94) (Buy 1 Get 1 Free)",
         "distributor_price": 651.0,
         "pv_points": 3000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D07141"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D07141",
+        "mrp": 800.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/07116_2.jpg",
@@ -557,7 +626,8 @@
         "product_name": "Atomy 360 Degree Health Combo*",
         "distributor_price": 9999.0,
         "pv_points": 70000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D07116"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D07116",
+        "mrp": 12999.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/07115_2.jpg",
@@ -565,7 +635,8 @@
         "product_name": "Atomy Korean Beauty Pack",
         "distributor_price": 2500.0,
         "pv_points": 12800,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D07115"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D07115",
+        "mrp": 3200.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/04717_2.jpg",
@@ -573,7 +644,8 @@
         "product_name": "Adelica Waterproof Mascara - Black",
         "distributor_price": 885.0,
         "pv_points": 5000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D04717"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D04717",
+        "mrp": 1000.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/04086_2.jpg",
@@ -581,7 +653,8 @@
         "product_name": "Atomy Moringa",
         "distributor_price": 754.02,
         "pv_points": 5500,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D04086"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D04086",
+        "mrp": 899.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/02479_2.JPG",
@@ -589,7 +662,8 @@
         "product_name": "ATOMY DNA (ENGLISH)",
         "distributor_price": 850.0,
         "pv_points": 0,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D02479"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D02479",
+        "mrp": 850.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/01443_2.jpg",
@@ -597,7 +671,8 @@
         "product_name": "Synergy Ampoule Program *1 set",
         "distributor_price": 6844.0,
         "pv_points": 50000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D01443"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D01443",
+        "mrp": 8500.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/01235_2.jpg",
@@ -605,7 +680,8 @@
         "product_name": "Atomy Homme Energizing All In One",
         "distributor_price": 1711.0,
         "pv_points": 12000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D01235"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D01235",
+        "mrp": 2000.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00975_2.jpeg",
@@ -613,7 +689,8 @@
         "product_name": "Atomy Cafe Arabica Black (50 sticks)",
         "distributor_price": 1652.0,
         "pv_points": 3000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00975"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00975",
+        "mrp": 2000.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00871_2.jpg",
@@ -621,7 +698,8 @@
         "product_name": "Fabric Softener",
         "distributor_price": 1215.4,
         "pv_points": 5000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00871"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00871",
+        "mrp": 1500.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00828_2.jpg",
@@ -629,7 +707,8 @@
         "product_name": "Fabric Detergent (1KG)",
         "distributor_price": 649.0,
         "pv_points": 2400,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00828"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00828",
+        "mrp": 800.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00801_2.jpg",
@@ -637,7 +716,8 @@
         "product_name": "Atomy Dishwashing Liquid",
         "distributor_price": 1062.0,
         "pv_points": 5000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00801"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00801",
+        "mrp": 1200.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00757_2.jpg",
@@ -645,7 +725,8 @@
         "product_name": "Hydra Brightening Care Set (2 Pcs per Set)",
         "distributor_price": 2596.0,
         "pv_points": 19800,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00757"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00757",
+        "mrp": 3000.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00553_2.JPG",
@@ -653,7 +734,8 @@
         "product_name": "Cleansing Travel Kit (6pcs per set)",
         "distributor_price": 1309.8,
         "pv_points": 4800,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00553"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00553",
+        "mrp": 1500.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00488_2.jpg",
@@ -661,7 +743,8 @@
         "product_name": "Atomy Sugar Body Scrub",
         "distributor_price": 1180.0,
         "pv_points": 6800,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00488"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00488",
+        "mrp": 1400.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00487_2.jpg",
@@ -669,7 +752,8 @@
         "product_name": "Atomy Salt Body Scrub",
         "distributor_price": 1180.0,
         "pv_points": 6800,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00487"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00487",
+        "mrp": 1400.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00482_2.jpg",
@@ -677,7 +761,8 @@
         "product_name": "Atomy Deep Pure Cleansing Oil",
         "distributor_price": 1799.5,
         "pv_points": 9000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00482"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00482",
+        "mrp": 2100.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00467_2.jpg",
@@ -685,7 +770,8 @@
         "product_name": "Atomy Daily Expert Mask Firming",
         "distributor_price": 1109.2,
         "pv_points": 5000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00467"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00467",
+        "mrp": 1300.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00466_2.jpg",
@@ -693,7 +779,8 @@
         "product_name": "Atomy Daily Expert Mask  Brightening",
         "distributor_price": 1109.2,
         "pv_points": 5000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00466"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00466",
+        "mrp": 1300.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00465_2.jpg",
@@ -701,7 +788,8 @@
         "product_name": "Atomy Daily Expert Mask Moisturizing",
         "distributor_price": 1109.2,
         "pv_points": 5000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00465"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00465",
+        "mrp": 1300.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00400_2.jpg",
@@ -709,7 +797,8 @@
         "product_name": "Atomy Lip Glow",
         "distributor_price": 1003.0,
         "pv_points": 5000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00400"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00400",
+        "mrp": 1200.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00295_2.jpg",
@@ -717,7 +806,8 @@
         "product_name": "Atomy Rose Rain Mist",
         "distributor_price": 1091.5,
         "pv_points": 5200,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00295"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00295",
+        "mrp": 1400.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00286_2.jpg",
@@ -725,7 +815,8 @@
         "product_name": "Atomy Sun Stick",
         "distributor_price": 1014.8,
         "pv_points": 5300,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00286"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00286",
+        "mrp": 1200.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00180_2.jpg",
@@ -733,7 +824,8 @@
         "product_name": "Atomy Pu'er Tea",
         "distributor_price": 3186.0,
         "pv_points": 17000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00180"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00180",
+        "mrp": 3600.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00174_2.jfif",
@@ -741,7 +833,8 @@
         "product_name": "Atomy Milk Thistle",
         "distributor_price": 3186.0,
         "pv_points": 16000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00174"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00174",
+        "mrp": 3800.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00170_2.png",
@@ -749,7 +842,8 @@
         "product_name": "Atomy Noni Drink",
         "distributor_price": 5428.0,
         "pv_points": 36000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00170"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00170",
+        "mrp": 6500.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00111_2.jpg",
@@ -757,7 +851,8 @@
         "product_name": "Alaska E-Omega 3",
         "distributor_price": 3422.0,
         "pv_points": 15000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00111"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00111",
+        "mrp": 4000.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00101_2.jpg",
@@ -765,6 +860,7 @@
         "product_name": "HemoHIM *1set",
         "distributor_price": 10620.0,
         "pv_points": 80000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00101"
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00101",
+        "mrp": 15000.0
     }
 ]
