@@ -907,19 +907,6 @@
         ],
         "mrp": 2100.0
     },
-    "D92681": {
-        "gds": "D92681",
-        "product_name": "Atomy T-Shirt (M)-1N",
-        "distributor_price": 378.0,
-        "pv_points": 0,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D92681",
-        "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/92681_2.jpeg",
-        "detailImages": [
-            "http://www.atomy.com/in/admin/userfiles/202206/WhatsApp%20Image%202022-06-01%20at%2010.43.19%20AM%20(2).jpeg",
-            "https://www.atomy.com/in/admin/userfiles/202407/Atomy T-Shirt 2_3.jpeg"
-        ],
-        "mrp": 378.0
-    },
     "D00192": {
         "gds": "D00192",
         "product_name": "The Fame Eye Cream",
@@ -1514,6 +1501,14 @@
             "https://www.atomy.com/in/admin/userfiles/202112/IN_sDetergent_04.jpg",
             "https://www.atomy.com/in/admin/userfiles/202112/IN_sDetergent_05.jpg",
             "https://www.atomy.com/in/admin/userfiles/202112/IN_sDetergent_06.jpg"
+        ]
+    },
+    "D92681": {
+        "gds": "D92681",
+        "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/92681_2.jpeg",
+        "detailImages": [
+            "http://www.atomy.com/in/admin/userfiles/202206/WhatsApp%20Image%202022-06-01%20at%2010.43.19%20AM%20(2).jpeg",
+            "https://www.atomy.com/in/admin/userfiles/202407/Atomy T-Shirt 2_3.jpeg"
         ]
     },
     "D00838": {
