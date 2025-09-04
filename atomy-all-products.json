@@ -203,6 +203,17 @@
         "distributor_price": 3894.0,
         "pv_points": 22000,
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00160",
+        "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00160_2.JPG",
+        "detailImages": [
+            "https://www.atomy.com/in/admin/userfiles/202204/IN_probiotics_01.gif",
+            "https://www.atomy.com/in/admin/userfiles/202204/IN_address_2204.gif",
+            "https://www.atomy.com/in/admin/userfiles/202109/probiotics_IN_02.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202109/probiotics_IN_03.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202109/probiotics_IN_04.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202109/probiotics_IN_05.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202109/probiotics_IN_06.gif",
+            "https://www.atomy.com/in/admin/userfiles/202109/probiotics_IN_07.gif"
+        ],
         "mrp": 4500.0
     },
     "D00475": {
@@ -1088,6 +1099,16 @@
         "distributor_price": 2625.0,
         "pv_points": 9000,
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D07142",
+        "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/07142_2.jpg",
+        "detailImages": [
+            "https://www.atomy.com/in/admin/userfiles/202506/IN_mask365_01_1.gif",
+            "https://www.atomy.com/in/admin/userfiles/202506/IN_mask94_02_3.gif",
+            "https://www.atomy.com/in/admin/userfiles/202506/q_living_lv2_IN_1.gif",
+            "https://www.atomy.com/in/admin/userfiles/202506/mask365_IN_02_1.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202506/mask365_IN_03_1.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202506/mask365_IN_04_1.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202506/mask365_IN_05_2.gif"
+        ],
         "mrp": 3200.0
     },
     "D07141": {
@@ -1096,6 +1117,15 @@
         "distributor_price": 651.0,
         "pv_points": 3000,
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D07141",
+        "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/07141_2.jpg",
+        "detailImages": [
+            "https://www.atomy.com/in/admin/userfiles/202506/IN_mask94_01_1.gif",
+            "https://www.atomy.com/in/admin/userfiles/202506/IN_mask94_02_1.gif",
+            "https://www.atomy.com/in/admin/userfiles/202506/IN_mask94_03_1.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202506/IN_mask94_04_1.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202506/IN_mask94_05.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202506/IN_mask94_06_1.jpg"
+        ],
         "mrp": 800.0
     },
     "D07116": {
@@ -1489,51 +1519,5 @@
             "https://www.atomy.com/in/admin/userfiles/202205/IN_hemohim_1.jpg"
         ],
         "mrp": 15000.0
-    },
-    "D00826": {
-        "gds": "D00826",
-        "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00826_2.jpg",
-        "detailImages": [
-            "https://www.atomy.com/in/admin/userfiles/202204/IN_sDetergent_01.gif",
-            "https://www.atomy.com/in/admin/userfiles/202204/IN_address_2204.gif",
-            "https://www.atomy.com/in/admin/userfiles/202112/IN_sDetergent_02.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202112/IN_sDetergent_03.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202112/IN_sDetergent_04.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202112/IN_sDetergent_05.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202112/IN_sDetergent_06.jpg"
-        ]
-    },
-    "D92681": {
-        "gds": "D92681",
-        "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/92681_2.jpeg",
-        "detailImages": [
-            "http://www.atomy.com/in/admin/userfiles/202206/WhatsApp%20Image%202022-06-01%20at%2010.43.19%20AM%20(2).jpeg",
-            "https://www.atomy.com/in/admin/userfiles/202407/Atomy T-Shirt 2_3.jpeg"
-        ]
-    },
-    "D00838": {
-        "gds": "D00838",
-        "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00838_2.jpg",
-        "detailImages": [
-            "https://www.atomy.com/in/admin/userfiles/202204/IN_mask365_01.gif",
-            "https://www.atomy.com/in/admin/userfiles/202204/IN_address_2204.gif",
-            "https://www.atomy.com/in/admin/userfiles/202108/q_living_lv2_IN.gif",
-            "https://www.atomy.com/in/admin/userfiles/202108/mask365_IN_02.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202108/mask365_IN_03.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202108/mask365_IN_04.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202108/mask365_IN_05.gif"
-        ]
-    },
-    "D00808": {
-        "gds": "D00808",
-        "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00808_2.jpg",
-        "detailImages": [
-            "https://www.atomy.com/in/admin/userfiles/202204/IN_mask94_01.gif",
-            "https://www.atomy.com/in/admin/userfiles/202204/IN_address_2204.gif",
-            "https://www.atomy.com/in/admin/userfiles/202108/mask94_IN_02.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202108/mask94_IN_03.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202108/mask94_IN_04.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202108/mask94_IN_05.jpg"
-        ]
     }
 }
