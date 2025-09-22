@@ -2,7 +2,7 @@
     "D00511": {
         "gds": "D00511",
         "product_name": "Compact Toothbrush 8N",
-        "distributor_price": 885.0,
+        "distributor_price": 787.5,
         "pv_points": 5500,
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00511",
         "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00511_2.jpg",
@@ -14,12 +14,12 @@
             "https://www.atomy.com/in/admin/userfiles/202405/IN_compactbrush_05_2.jpg",
             "https://www.atomy.com/in/admin/userfiles/202405/IN_toothbrush_05_6.jpg"
         ],
-        "mrp": 1050.0
+        "mrp": 950.0
     },
     "D00510": {
         "gds": "D00510",
         "product_name": "Toothbrush 8N",
-        "distributor_price": 900.0,
+        "distributor_price": 800.85,
         "pv_points": 6200,
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00510",
         "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00510_2.jpg",
@@ -30,7 +30,7 @@
             "https://www.atomy.com/in/admin/userfiles/202405/IN_toothbrush_04_2.jpg",
             "https://www.atomy.com/in/admin/userfiles/202405/IN_toothbrush_05_1.jpg"
         ],
-        "mrp": 1050.0
+        "mrp": 950.0
     },
     "D01513": {
         "gds": "D01513",
@@ -85,7 +85,7 @@
     "D00521": {
         "gds": "D00521",
         "product_name": "Toothpaste 50g x 4 N",
-        "distributor_price": 483.8,
+        "distributor_price": 430.5,
         "pv_points": 1600,
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00521",
         "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00521_2.jpg",
@@ -97,12 +97,12 @@
             "https://www.atomy.com/in/admin/userfiles/202011/toothpaste_04.jpg",
             "https://www.atomy.com/in/admin/userfiles/202011/toothpaste_05.jpg"
         ],
-        "mrp": 600.0
+        "mrp": 520.0
     },
     "D00183": {
         "gds": "D00183",
         "product_name": "Atomy Pomegranate Mixed Fruit Jelly",
-        "distributor_price": 6401.5,
+        "distributor_price": 5696.25,
         "pv_points": 35000,
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00183",
         "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00183_2.jpg",
@@ -120,43 +120,43 @@
             "https://www.atomy.com/in/admin/userfiles/202109/pBeauty_IN_09.gif",
             "https://www.atomy.com/in/admin/userfiles/202109/pBeauty_IN_10.gif"
         ],
-        "mrp": 7500.0
+        "mrp": 6700.0
     },
     "D00104": {
         "gds": "D00104",
         "product_name": "HemoHIM *4set",
-        "distributor_price": 40120.0,
+        "distributor_price": 35700.0,
         "pv_points": 290000,
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00104",
         "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00104_2.jpg",
         "detailImages": [
             "http://www.atomy.com/in/admin/userfiles/202205/IN_hemohim.jpg"
         ],
-        "mrp": 60000.0
+        "mrp": 52000.0
     },
     "D00102": {
         "gds": "D00102",
         "product_name": "HemoHIM *2set",
-        "distributor_price": 20650.0,
+        "distributor_price": 18375.0,
         "pv_points": 150000,
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00102",
         "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00102_2.jpg",
         "detailImages": [
             "https://www.atomy.com/in/admin/userfiles/202309/IN_hemohim_1.jpg"
         ],
-        "mrp": 30000.0
+        "mrp": 26000.0
     },
     "D90178": {
         "gds": "D90178",
         "product_name": "ATOMY 100% PURE* SPIRULINA (India)",
-        "distributor_price": 560.5,
+        "distributor_price": 498.75,
         "pv_points": 3000,
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D90178",
         "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/90178_2.jpeg",
         "detailImages": [
             "http://www.atomy.com/in/admin/userfiles/202212/SPIRULINA%20NUTRITIONAL%20VALUE.png"
         ],
-        "mrp": 699.0
+        "mrp": 599.0
     },
     "D00281": {
         "gds": "D00281",
@@ -200,7 +200,7 @@
     "D00160": {
         "gds": "D00160",
         "product_name": "Atomy Nutraceutical Mix",
-        "distributor_price": 3894.0,
+        "distributor_price": 3465.0,
         "pv_points": 22000,
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00160",
         "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00160_2.JPG",
@@ -214,7 +214,7 @@
             "https://www.atomy.com/in/admin/userfiles/202109/probiotics_IN_06.gif",
             "https://www.atomy.com/in/admin/userfiles/202109/probiotics_IN_07.gif"
         ],
-        "mrp": 4500.0
+        "mrp": 4000.0
     },
     "D00475": {
         "gds": "D00475",
@@ -533,7 +533,7 @@
     "D00691": {
         "gds": "D00691",
         "product_name": "Scalpcare Hair Shampoo",
-        "distributor_price": 1262.6,
+        "distributor_price": 1123.5,
         "pv_points": 6700,
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00691",
         "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00691_2.jpg",
@@ -545,12 +545,12 @@
             "https://www.atomy.com/in/admin/userfiles/202011/Scalp_04.jpg",
             "https://www.atomy.com/in/admin/userfiles/202011/Scalp_shampoo_04.jpg"
         ],
-        "mrp": 1500.0
+        "mrp": 1350.0
     },
     "D00681": {
         "gds": "D00681",
         "product_name": "Hair Essential Oil",
-        "distributor_price": 1050.2,
+        "distributor_price": 934.5,
         "pv_points": 5800,
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00681",
         "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00681_2.jpg",
@@ -564,7 +564,7 @@
             "https://www.atomy.com/in/admin/userfiles/202011/hairoil_06.jpg",
             "https://www.atomy.com/in/admin/userfiles/202011/hairoil_07.gif"
         ],
-        "mrp": 1300.0
+        "mrp": 1150.0
     },
     "D00661": {
         "gds": "D00661",
@@ -649,7 +649,7 @@
     "D00601": {
         "gds": "D00601",
         "product_name": "Herbal Hair Shampoo",
-        "distributor_price": 1003.0,
+        "distributor_price": 892.5,
         "pv_points": 6000,
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00601",
         "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00601_2.jpg",
@@ -658,7 +658,7 @@
             "https://www.atomy.com/in/admin/userfiles/202204/IN_address_2204.gif",
             "https://www.atomy.com/in/admin/userfiles/202405/hairbody_shampoo_02_2.jpg"
         ],
-        "mrp": 1200.0
+        "mrp": 1050.0
     },
     "D00756": {
         "gds": "D00756",
@@ -703,7 +703,7 @@
     "D04006": {
         "gds": "D04006",
         "product_name": "Atomy Algae Omega3",
-        "distributor_price": 4956.0,
+        "distributor_price": 4410.0,
         "pv_points": 37000,
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D04006",
         "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/04006_2.jpg",
@@ -718,12 +718,12 @@
             "https://www.atomy.com/in/admin/userfiles/202204/IN_vOmega3_07.jpg",
             "https://www.atomy.com/in/admin/userfiles/202204/IN_vOmega3_08.gif"
         ],
-        "mrp": 5800.0
+        "mrp": 5200.0
     },
     "D00520": {
         "gds": "D00520",
         "product_name": "Oral Care System*1set",
-        "distributor_price": 1109.2,
+        "distributor_price": 987.0,
         "pv_points": 6700,
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00520",
         "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00520_2.jpg",
@@ -734,7 +734,7 @@
             "https://www.atomy.com/in/admin/userfiles/202012/oralcare_03.jpg",
             "https://www.atomy.com/in/admin/userfiles/202012/oralcare_04.jpg"
         ],
-        "mrp": 1300.0
+        "mrp": 1150.0
     },
     "D00311": {
         "gds": "D00311",
@@ -752,10 +752,10 @@
     "D00501": {
         "gds": "D00501",
         "product_name": "Toothpaste 200g X 5 N",
-        "distributor_price": 1711.0,
+        "distributor_price": 1522.5,
         "pv_points": 4300,
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00501",
-        "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00501_2.jpg",
+        "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00501_2.png",
         "detailImages": [
             "https://www.atomy.com/in/admin/userfiles/202204/IN_toothpaste_01.gif",
             "https://www.atomy.com/in/admin/userfiles/202204/IN_address_2204.gif",
@@ -764,7 +764,7 @@
             "https://www.atomy.com/in/admin/userfiles/202011/toothpaste_04.jpg",
             "https://www.atomy.com/in/admin/userfiles/202011/toothpaste_05.jpg"
         ],
-        "mrp": 2000.0
+        "mrp": 1795.0
     },
     "D00331": {
         "gds": "D00331",
@@ -1002,26 +1002,26 @@
     "D94085": {
         "gds": "D94085",
         "product_name": "Atomy Shilajit Capsules",
-        "distributor_price": 784.0,
+        "distributor_price": 735.0,
         "pv_points": 4000,
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D94085",
         "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/94085_2.jpg",
         "detailImages": [
             "https://www.atomy.com/in/admin/userfiles/202411/IN_shilajit_1.jpg"
         ],
-        "mrp": 899.0
+        "mrp": 849.0
     },
     "D94084": {
         "gds": "D94084",
         "product_name": "Atomy 100% Pure* Spirulina Powder",
-        "distributor_price": 1652.0,
+        "distributor_price": 1470.0,
         "pv_points": 10000,
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D94084",
-        "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/94084_2.png",
+        "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/94084_2.jpg",
         "detailImages": [
             "https://www.atomy.com/in/admin/userfiles/202501/IN_spirulina_pouch copy_1.jpg"
         ],
-        "mrp": 1999.0
+        "mrp": 1799.0
     },
     "D92658": {
         "gds": "D92658",
@@ -1079,10 +1079,10 @@
     "D90501": {
         "gds": "D90501",
         "product_name": "Atomy Toothpaste 200g x1N",
-        "distributor_price": 354.0,
+        "distributor_price": 315.0,
         "pv_points": 850,
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D90501",
-        "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/90501_2.jpeg",
+        "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/90501_2.jpg",
         "detailImages": [
             "http://www.atomy.com/in/admin/userfiles/202204/IN_toothpaste_01.gif",
             "http://www.atomy.com/in/admin/userfiles/202204/IN_address_2204.gif",
@@ -1091,7 +1091,7 @@
             "http://www.atomy.com/in/admin/userfiles/202011/toothpaste_04.jpg",
             "http://www.atomy.com/in/admin/userfiles/202011/toothpaste_05.jpg"
         ],
-        "mrp": 400.0
+        "mrp": 359.0
     },
     "D07142": {
         "gds": "D07142",
@@ -1131,7 +1131,7 @@
     "D07116": {
         "gds": "D07116",
         "product_name": "Atomy 360 Degree Health Combo*",
-        "distributor_price": 9999.0,
+        "distributor_price": 8897.42,
         "pv_points": 70000,
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D07116",
         "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/07116_2.jpg",
@@ -1139,7 +1139,7 @@
             "https://www.atomy.com/in/admin/userfiles/202403/1 Omega Noni webs_2.jpg",
             "https://www.atomy.com/in/admin/userfiles/202403/Spirulina web copy_1.jpg"
         ],
-        "mrp": 12999.0
+        "mrp": 11699.0
     },
     "D07115": {
         "gds": "D07115",
@@ -1173,7 +1173,7 @@
     "D04086": {
         "gds": "D04086",
         "product_name": "Atomy Moringa",
-        "distributor_price": 754.02,
+        "distributor_price": 670.95,
         "pv_points": 5500,
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D04086",
         "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/04086_2.jpg",
@@ -1182,7 +1182,7 @@
             "https://www.atomy.com/in/admin/userfiles/202503/IN_moringa_02 v1_1.jpg",
             "https://www.atomy.com/in/admin/userfiles/202503/IN_moringa_03_20250225_1.jpg"
         ],
-        "mrp": 899.0
+        "mrp": 799.0
     },
     "D02479": {
         "gds": "D02479",
@@ -1223,10 +1223,10 @@
     "D00975": {
         "gds": "D00975",
         "product_name": "Atomy Cafe Arabica Black (50 sticks)",
-        "distributor_price": 1652.0,
+        "distributor_price": 1470.0,
         "pv_points": 3000,
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00975",
-        "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00975_2.jpeg",
+        "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00975_2.jpg",
         "detailImages": [
             "https://www.atomy.com/in/admin/userfiles/202204/IN_cABlack_01.gif",
             "https://www.atomy.com/in/admin/userfiles/202204/IN_address_2204.gif",
@@ -1236,7 +1236,7 @@
             "https://www.atomy.com/in/admin/userfiles/202108/cABlack_IN_05.jpg",
             "https://www.atomy.com/in/admin/userfiles/202108/cABlack_IN_06.jpg"
         ],
-        "mrp": 2000.0
+        "mrp": 1800.0
     },
     "D00871": {
         "gds": "D00871",
@@ -1460,31 +1460,31 @@
     "D00180": {
         "gds": "D00180",
         "product_name": "Atomy Pu'er Tea",
-        "distributor_price": 3186.0,
+        "distributor_price": 2835.0,
         "pv_points": 17000,
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00180",
         "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00180_2.jpg",
         "detailImages": [
             "http://www.atomy.com/in/admin/userfiles/202303/IN_puerTea.png"
         ],
-        "mrp": 3600.0
+        "mrp": 3200.0
     },
     "D00174": {
         "gds": "D00174",
         "product_name": "Atomy Milk Thistle",
-        "distributor_price": 3186.0,
+        "distributor_price": 2835.0,
         "pv_points": 16000,
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00174",
-        "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00174_2.jfif",
+        "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00174_2.jpg",
         "detailImages": [
             "https://www.atomy.com/in/admin/userfiles/202303/IN_milkthistle.png"
         ],
-        "mrp": 3800.0
+        "mrp": 3400.0
     },
     "D00170": {
         "gds": "D00170",
         "product_name": "Atomy Noni Drink",
-        "distributor_price": 5428.0,
+        "distributor_price": 4830.0,
         "pv_points": 36000,
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00170",
         "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00170_2.png",
@@ -1494,30 +1494,30 @@
             "https://www.atomy.com/in/admin/userfiles/202306/IN_noniRE_03_1.jpg",
             "https://www.atomy.com/in/admin/userfiles/202306/IN_noniRE_04_1.jpg"
         ],
-        "mrp": 6500.0
+        "mrp": 5900.0
     },
     "D00111": {
         "gds": "D00111",
         "product_name": "Alaska E-Omega 3",
-        "distributor_price": 3422.0,
+        "distributor_price": 3045.0,
         "pv_points": 15000,
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00111",
         "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00111_2.jpg",
         "detailImages": [
             "https://www.atomy.com/in/admin/userfiles/202411/IN_aEOmega3_1.jpg"
         ],
-        "mrp": 4000.0
+        "mrp": 3600.0
     },
     "D00101": {
         "gds": "D00101",
         "product_name": "HemoHIM *1set",
-        "distributor_price": 10620.0,
+        "distributor_price": 9450.0,
         "pv_points": 80000,
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00101",
         "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00101_2.jpg",
         "detailImages": [
             "https://www.atomy.com/in/admin/userfiles/202205/IN_hemohim_1.jpg"
         ],
-        "mrp": 15000.0
+        "mrp": 13000.0
     }
 }
