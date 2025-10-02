@@ -138,20 +138,6 @@
     ]
   },
   {
-    "gds": "D00160",
-    "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00160_2.png",
-    "detailImages": [
-      "https://www.atomy.com/in/admin/userfiles/202204/IN_probiotics_01.gif",
-      "https://www.atomy.com/in/admin/userfiles/202204/IN_address_2204.gif",
-      "https://www.atomy.com/in/admin/userfiles/202109/probiotics_IN_02.jpg",
-      "https://www.atomy.com/in/admin/userfiles/202109/probiotics_IN_03.jpg",
-      "https://www.atomy.com/in/admin/userfiles/202109/probiotics_IN_04.jpg",
-      "https://www.atomy.com/in/admin/userfiles/202109/probiotics_IN_05.jpg",
-      "https://www.atomy.com/in/admin/userfiles/202109/probiotics_IN_06.gif",
-      "https://www.atomy.com/in/admin/userfiles/202109/probiotics_IN_07.gif"
-    ]
-  },
-  {
     "gds": "D00475",
     "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00475_2.jpg",
     "detailImages": [
@@ -789,6 +775,24 @@
     ]
   },
   {
+    "gds": "D07126",
+    "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/07126_2.png",
+    "detailImages": [
+      "https://www.atomy.com/in/admin/userfiles/202503/IN_pBeauty_00_1.gif",
+      "https://www.atomy.com/in/admin/userfiles/202503/pBeauty_00_1.gif",
+      "https://www.atomy.com/in/admin/userfiles/202503/pBeauty_IN_01_1.jpg",
+      "https://www.atomy.com/in/admin/userfiles/202503/pBeauty_IN_02_1.jpg",
+      "https://www.atomy.com/in/admin/userfiles/202503/pBeauty_IN_03_1.jpg",
+      "https://www.atomy.com/in/admin/userfiles/202503/pBeauty_IN_04_1.jpg",
+      "https://www.atomy.com/in/admin/userfiles/202503/pBeauty_IN_05_1.jpg",
+      "https://www.atomy.com/in/admin/userfiles/202503/pBeauty_IN_06_1.jpg",
+      "https://www.atomy.com/in/admin/userfiles/202503/pBeauty_IN_07_1.jpg",
+      "https://www.atomy.com/in/admin/userfiles/202503/pBeauty_IN_08_1.jpg",
+      "https://www.atomy.com/in/admin/userfiles/202503/pBeauty_IN_09_1.gif",
+      "https://www.atomy.com/in/admin/userfiles/202503/pBeauty_IN_10_1.gif"
+    ]
+  },
+  {
     "gds": "D07116",
     "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/07116_2.png",
     "detailImages": [
@@ -806,6 +810,20 @@
       "https://www.atomy.com/in/admin/userfiles/202406/Layer 1-K-BEAUty_02_1.jpg",
       "https://www.atomy.com/in/admin/userfiles/202406/Group 1 copy-K-Beauty_03_1.jpg",
       "https://www.atomy.com/in/admin/userfiles/202406/Layer 1-K-Beauty_03_2.jpg"
+    ]
+  },
+  {
+    "gds": "D07091",
+    "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/07091_2.png",
+    "detailImages": [
+      "http://www.atomy.com/in/admin/userfiles/202204/IN_probiotics_01.gif",
+      "http://www.atomy.com/in/admin/userfiles/202204/IN_address_2204.gif",
+      "http://www.atomy.com/in/admin/userfiles/202109/probiotics_IN_02.jpg",
+      "http://www.atomy.com/in/admin/userfiles/202109/probiotics_IN_03.jpg",
+      "http://www.atomy.com/in/admin/userfiles/202109/probiotics_IN_04.jpg",
+      "http://www.atomy.com/in/admin/userfiles/202109/probiotics_IN_05.jpg",
+      "http://www.atomy.com/in/admin/userfiles/202109/probiotics_IN_06.gif",
+      "http://www.atomy.com/in/admin/userfiles/202109/probiotics_IN_07.gif"
     ]
   },
   {
