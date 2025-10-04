@@ -99,29 +99,6 @@
         ],
         "mrp": 520.0
     },
-    "D00183": {
-        "gds": "D00183",
-        "product_name": "Atomy Pomegranate Mixed Fruit Jelly",
-        "distributor_price": 5696.25,
-        "pv_points": 35000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00183",
-        "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00183_2.png",
-        "detailImages": [
-            "https://www.atomy.com/in/admin/userfiles/202204/IN_pBeauty_01.gif",
-            "https://www.atomy.com/in/admin/userfiles/202204/IN_address_2204.gif",
-            "https://www.atomy.com/in/admin/userfiles/202109/pBeauty_IN_01.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202109/pBeauty_IN_02.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202109/pBeauty_IN_03.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202109/pBeauty_IN_04.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202109/pBeauty_IN_05.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202109/pBeauty_IN_06.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202109/pBeauty_IN_07.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202109/pBeauty_IN_08.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202109/pBeauty_IN_09.gif",
-            "https://www.atomy.com/in/admin/userfiles/202109/pBeauty_IN_10.gif"
-        ],
-        "mrp": 6700.0
-    },
     "D00104": {
         "gds": "D00104",
         "product_name": "HemoHIM *4set",
@@ -196,6 +173,25 @@
             "https://www.atomy.com/in/admin/userfiles/202011/theFame_set_11.gif"
         ],
         "mrp": 9100.0
+    },
+    "D00160": {
+        "gds": "D00160",
+        "product_name": "Atomy Nutraceutical Mix",
+        "distributor_price": 3465.0,
+        "pv_points": 22000,
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00160",
+        "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00160_2.png",
+        "detailImages": [
+            "https://www.atomy.com/in/admin/userfiles/202204/IN_probiotics_01.gif",
+            "https://www.atomy.com/in/admin/userfiles/202204/IN_address_2204.gif",
+            "https://www.atomy.com/in/admin/userfiles/202109/probiotics_IN_02.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202109/probiotics_IN_03.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202109/probiotics_IN_04.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202109/probiotics_IN_05.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202109/probiotics_IN_06.gif",
+            "https://www.atomy.com/in/admin/userfiles/202109/probiotics_IN_07.gif"
+        ],
+        "mrp": 4000.0
     },
     "D00475": {
         "gds": "D00475",
@@ -1109,29 +1105,6 @@
         ],
         "mrp": 800.0
     },
-    "D07126": {
-        "gds": "D07126",
-        "product_name": "Atomy Pomegranate Mixed Fruit Jelly (Buy 2 Get 1 Free)",
-        "distributor_price": 11392.5,
-        "pv_points": 70000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D07126",
-        "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/07126_2.png",
-        "detailImages": [
-            "https://www.atomy.com/in/admin/userfiles/202503/IN_pBeauty_00_1.gif",
-            "https://www.atomy.com/in/admin/userfiles/202503/pBeauty_00_1.gif",
-            "https://www.atomy.com/in/admin/userfiles/202503/pBeauty_IN_01_1.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202503/pBeauty_IN_02_1.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202503/pBeauty_IN_03_1.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202503/pBeauty_IN_04_1.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202503/pBeauty_IN_05_1.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202503/pBeauty_IN_06_1.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202503/pBeauty_IN_07_1.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202503/pBeauty_IN_08_1.jpg",
-            "https://www.atomy.com/in/admin/userfiles/202503/pBeauty_IN_09_1.gif",
-            "https://www.atomy.com/in/admin/userfiles/202503/pBeauty_IN_10_1.gif"
-        ],
-        "mrp": 13400.0
-    },
     "D07116": {
         "gds": "D07116",
         "product_name": "Atomy 360 Degree Health Combo*",
@@ -1162,24 +1135,28 @@
         ],
         "mrp": 3200.0
     },
-    "D07091": {
-        "gds": "D07091",
-        "product_name": "Atomy Nutraceutical Mix (Buy 1 Get 1 Free)",
-        "distributor_price": 3465.0,
-        "pv_points": 22000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D07091",
-        "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/07091_2.png",
+    "D07062": {
+        "gds": "D07062",
+        "product_name": "Atomy Pomegranate Mixed Fruit Jelly (Buy 1 Get 1 Free Offer)",
+        "distributor_price": 5696.25,
+        "pv_points": 35000,
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D07062",
+        "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/07062_2.jpeg",
         "detailImages": [
-            "http://www.atomy.com/in/admin/userfiles/202204/IN_probiotics_01.gif",
-            "http://www.atomy.com/in/admin/userfiles/202204/IN_address_2204.gif",
-            "http://www.atomy.com/in/admin/userfiles/202109/probiotics_IN_02.jpg",
-            "http://www.atomy.com/in/admin/userfiles/202109/probiotics_IN_03.jpg",
-            "http://www.atomy.com/in/admin/userfiles/202109/probiotics_IN_04.jpg",
-            "http://www.atomy.com/in/admin/userfiles/202109/probiotics_IN_05.jpg",
-            "http://www.atomy.com/in/admin/userfiles/202109/probiotics_IN_06.gif",
-            "http://www.atomy.com/in/admin/userfiles/202109/probiotics_IN_07.gif"
+            "https://www.atomy.com/in/admin/userfiles/202510/IN_pBeauty_00_1.gif",
+            "https://www.atomy.com/in/admin/userfiles/202510/pBeauty_00_1.gif",
+            "https://www.atomy.com/in/admin/userfiles/202510/pBeauty_IN_01_1.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202510/pBeauty_IN_02_1.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202510/pBeauty_IN_03_1.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202510/pBeauty_IN_04_1.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202510/pBeauty_IN_05_1.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202510/pBeauty_IN_06_1.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202510/pBeauty_IN_07_1.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202510/pBeauty_IN_08_1.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202510/pBeauty_IN_09_1.gif",
+            "https://www.atomy.com/in/admin/userfiles/202510/pBeauty_IN_10_1.gif"
         ],
-        "mrp": 4000.0
+        "mrp": 6700.0
     },
     "D04717": {
         "gds": "D04717",

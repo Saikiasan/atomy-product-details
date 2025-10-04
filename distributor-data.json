@@ -48,14 +48,6 @@
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00521"
     },
     {
-        "product_image": "https://www.atomy.com/in/shopping/p_img/100/00183_2.png",
-        "gds": "D00183",
-        "product_name": "Atomy Pomegranate Mixed Fruit Jelly",
-        "distributor_price": 5696.25,
-        "pv_points": 35000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00183"
-    },
-    {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00104_2.png",
         "gds": "D00104",
         "product_name": "HemoHIM *4set",
@@ -94,6 +86,14 @@
         "distributor_price": 7906.0,
         "pv_points": 60000,
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00003"
+    },
+    {
+        "product_image": "https://www.atomy.com/in/shopping/p_img/100/00160_2.png",
+        "gds": "D00160",
+        "product_name": "Atomy Nutraceutical Mix",
+        "distributor_price": 3465.0,
+        "pv_points": 22000,
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00160"
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00475_2.jpg",
@@ -536,14 +536,6 @@
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D07141"
     },
     {
-        "product_image": "https://www.atomy.com/in/shopping/p_img/100/07126_2.png",
-        "gds": "D07126",
-        "product_name": "Atomy Pomegranate Mixed Fruit Jelly (Buy 2 Get 1 Free)",
-        "distributor_price": 11392.5,
-        "pv_points": 70000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D07126"
-    },
-    {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/07116_2.png",
         "gds": "D07116",
         "product_name": "Atomy 360 Degree Health Combo*",
@@ -560,12 +552,12 @@
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D07115"
     },
     {
-        "product_image": "https://www.atomy.com/in/shopping/p_img/100/07091_2.png",
-        "gds": "D07091",
-        "product_name": "Atomy Nutraceutical Mix (Buy 1 Get 1 Free)",
-        "distributor_price": 3465.0,
-        "pv_points": 22000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D07091"
+        "product_image": "https://www.atomy.com/in/shopping/p_img/100/07062_2.jpeg",
+        "gds": "D07062",
+        "product_name": "Atomy Pomegranate Mixed Fruit Jelly (Buy 1 Get 1 Free Offer)",
+        "distributor_price": 5696.25,
+        "pv_points": 35000,
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D07062"
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/04717_2.jpg",

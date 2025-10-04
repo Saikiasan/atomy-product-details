@@ -36,12 +36,6 @@
         "mrp": 520.0
     },
     {
-        "product_image": "https://www.atomy.com/in/shopping/p_img/100/00183_2.png",
-        "gds": "D00183",
-        "product_name": "Atomy Pomegranate Mixed Fruit Jelly",
-        "mrp": 6700.0
-    },
-    {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00104_2.png",
         "gds": "D00104",
         "product_name": "HemoHIM *4set",
@@ -70,6 +64,12 @@
         "gds": "D00003",
         "product_name": "The Fame Skincare Set (5 Pcs per Set)",
         "mrp": 9100.0
+    },
+    {
+        "product_image": "https://www.atomy.com/in/shopping/p_img/100/00160_2.png",
+        "gds": "D00160",
+        "product_name": "Atomy Nutraceutical Mix",
+        "mrp": 4000.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00475_2.jpg",
@@ -402,12 +402,6 @@
         "mrp": 800.0
     },
     {
-        "product_image": "https://www.atomy.com/in/shopping/p_img/100/07126_2.png",
-        "gds": "D07126",
-        "product_name": "Atomy Pomegranate Mixed Fruit Jelly (Buy 2 Get 1 Free)",
-        "mrp": 13400.0
-    },
-    {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/07116_2.png",
         "gds": "D07116",
         "product_name": "Atomy 360 Degree Health Combo*",
@@ -420,10 +414,10 @@
         "mrp": 3200.0
     },
     {
-        "product_image": "https://www.atomy.com/in/shopping/p_img/100/07091_2.png",
-        "gds": "D07091",
-        "product_name": "Atomy Nutraceutical Mix (Buy 1 Get 1 Free)",
-        "mrp": 4000.0
+        "product_image": "https://www.atomy.com/in/shopping/p_img/100/07062_2.jpeg",
+        "gds": "D07062",
+        "product_name": "Atomy Pomegranate Mixed Fruit Jelly (Buy 1 Get 1 Free Offer)",
+        "mrp": 6700.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/04717_2.jpg",
