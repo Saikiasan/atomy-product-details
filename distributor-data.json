@@ -184,6 +184,14 @@
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00217"
     },
     {
+        "product_image": "https://www.atomy.com/in/shopping/p_img/100/00645_2.jpg",
+        "gds": "D00645",
+        "product_name": "Body Lotion",
+        "distributor_price": 1032.5,
+        "pv_points": 4500,
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00645"
+    },
+    {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00227_2.png",
         "gds": "D00227",
         "product_name": "Absolute Ampoule",

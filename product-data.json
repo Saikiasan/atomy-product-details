@@ -290,6 +290,17 @@
     ]
   },
   {
+    "gds": "D00645",
+    "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00645_2.jpg",
+    "detailImages": [
+      "https://www.atomy.com/in/admin/userfiles/202204/IN_bodylotion_01.gif",
+      "https://www.atomy.com/in/admin/userfiles/202204/IN_address_2204.gif",
+      "https://www.atomy.com/in/admin/userfiles/202510/IN_bodylotion_03_1.jpg",
+      "https://www.atomy.com/in/admin/userfiles/202510/WhatsApp Image 2025-10-30 at 10.11.20_1.jpeg",
+      "https://www.atomy.com/in/admin/userfiles/202103/bodylotion_03.jpg"
+    ]
+  },
+  {
     "gds": "D00227",
     "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00227_2.png",
     "detailImages": [
@@ -987,6 +998,13 @@
       "http://www.atomy.com/in/admin/userfiles/202204/IN_sunStick_03_4.jpg",
       "http://www.atomy.com/in/admin/userfiles/202204/IN_sunStick_04.jpg",
       "http://www.atomy.com/in/admin/userfiles/202204/IN_sunStick_05.jpg"
+    ]
+  },
+  {
+    "gds": "D00180",
+    "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00180_2.png",
+    "detailImages": [
+      "http://www.atomy.com/in/admin/userfiles/202303/IN_puerTea.png"
     ]
   },
   {

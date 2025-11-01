@@ -138,6 +138,12 @@
         "mrp": 3300.0
     },
     {
+        "product_image": "https://www.atomy.com/in/shopping/p_img/100/00645_2.jpg",
+        "gds": "D00645",
+        "product_name": "Body Lotion",
+        "mrp": 1200.0
+    },
+    {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00227_2.png",
         "gds": "D00227",
         "product_name": "Absolute Ampoule",
