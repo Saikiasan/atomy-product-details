@@ -48,6 +48,14 @@
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00521"
     },
     {
+        "product_image": "https://www.atomy.com/in/shopping/p_img/100/00183_2.png",
+        "gds": "D00183",
+        "product_name": "Atomy Pomegranate Mixed Fruit Jelly",
+        "distributor_price": 5696.25,
+        "pv_points": 35000,
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00183"
+    },
+    {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00104_2.png",
         "gds": "D00104",
         "product_name": "HemoHIM *4set",
@@ -512,36 +520,12 @@
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D92445"
     },
     {
-        "product_image": "https://www.atomy.com/in/shopping/p_img/100/92405_2.jpeg",
-        "gds": "D92405",
-        "product_name": "Atomy Diary",
-        "distributor_price": 531.0,
-        "pv_points": 0,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D92405"
-    },
-    {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/90501_2.png",
         "gds": "D90501",
         "product_name": "Atomy Toothpaste 200g x1N",
         "distributor_price": 315.0,
         "pv_points": 850,
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D90501"
-    },
-    {
-        "product_image": "https://www.atomy.com/in/shopping/p_img/100/07142_2.jpg",
-        "gds": "D07142",
-        "product_name": "Atomy 365 Anti Droplet Face Mask (Buy 1 Get 1 Free)",
-        "distributor_price": 2625.0,
-        "pv_points": 9000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D07142"
-    },
-    {
-        "product_image": "https://www.atomy.com/in/shopping/p_img/100/07141_2.jpg",
-        "gds": "D07141",
-        "product_name": "Atomy Anti Pollution Mask (KF94) (Buy 1 Get 1 Free)",
-        "distributor_price": 651.0,
-        "pv_points": 3000,
-        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D07141"
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/07116_2.png",
