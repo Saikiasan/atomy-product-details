@@ -32,6 +32,27 @@
         ],
         "mrp": 950.0
     },
+    "D01526": {
+        "gds": "D01526",
+        "product_name": "Atomy Absolute Snow Dark Spot Corrector",
+        "distributor_price": 1062.0,
+        "pv_points": 7000,
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D01526",
+        "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/01526_2.jpg",
+        "detailImages": [
+            "https://www.atomy.com/in/admin/userfiles/202511/IN_snow_dsc_00_2.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202511/IN_snow_dsc_01_4.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202511/IN_snow_dsc_02_2.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202511/IN_snow_dsc_03_1.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202511/IN_snow_dsc_04_1.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202511/IN_snow_dsc_05_1.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202511/IN_snow_dsc_06_1.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202511/IN_snow_dsc_07_1.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202511/IN_snow_dsc_08_1.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202511/IN_snow_dsc_09_1.jpg"
+        ],
+        "mrp": 1200.0
+    },
     "D01513": {
         "gds": "D01513",
         "product_name": "Atomy Absolute 24K Gold Night Mask",
@@ -1394,6 +1415,38 @@
             "https://www.atomy.com/in/admin/userfiles/202406/IN_lipglow_06_1.jpg"
         ],
         "mrp": 1200.0
+    },
+    "D00397": {
+        "gds": "D00397",
+        "product_name": "Atomy Air Pact #23",
+        "distributor_price": 1575.0,
+        "pv_points": 9300,
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00397",
+        "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00397_2.jpg",
+        "detailImages": [
+            "https://www.atomy.com/in/admin/userfiles/202511/IN_aPact_00_10.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202511/IN_aPact_01_6.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202511/IN_aPact_02_5.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202511/IN_aPact_03_5.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202511/IN_aPact_04_4.jpg"
+        ],
+        "mrp": 1900.0
+    },
+    "D00396": {
+        "gds": "D00396",
+        "product_name": "Atomy Air Pact #21",
+        "distributor_price": 1575.0,
+        "pv_points": 9300,
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00396",
+        "bannerImgUrl": "https://www.atomy.com/in/shopping/p_img/100/00396_2.jpg",
+        "detailImages": [
+            "https://www.atomy.com/in/admin/userfiles/202511/IN_aPact_00_7.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202511/IN_aPact_01_4.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202511/IN_aPact_02_3.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202511/IN_aPact_03_3.jpg",
+            "https://www.atomy.com/in/admin/userfiles/202511/IN_aPact_04_2.jpg"
+        ],
+        "mrp": 1900.0
     },
     "D00295": {
         "gds": "D00295",

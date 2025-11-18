@@ -12,6 +12,12 @@
         "mrp": 950.0
     },
     {
+        "product_image": "https://www.atomy.com/in/shopping/p_img/100/01526_2.jpg",
+        "gds": "D01526",
+        "product_name": "Atomy Absolute Snow Dark Spot Corrector",
+        "mrp": 1200.0
+    },
+    {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/01513_2.jpg",
         "gds": "D01513",
         "product_name": "Atomy Absolute 24K Gold Night Mask",
@@ -514,6 +520,18 @@
         "gds": "D00400",
         "product_name": "Atomy Lip Glow",
         "mrp": 1200.0
+    },
+    {
+        "product_image": "https://www.atomy.com/in/shopping/p_img/100/00397_2.jpg",
+        "gds": "D00397",
+        "product_name": "Atomy Air Pact #23",
+        "mrp": 1900.0
+    },
+    {
+        "product_image": "https://www.atomy.com/in/shopping/p_img/100/00396_2.jpg",
+        "gds": "D00396",
+        "product_name": "Atomy Air Pact #21",
+        "mrp": 1900.0
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00295_2.jpg",

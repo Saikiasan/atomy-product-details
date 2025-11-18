@@ -16,6 +16,14 @@
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00510"
     },
     {
+        "product_image": "https://www.atomy.com/in/shopping/p_img/100/01526_2.jpg",
+        "gds": "D01526",
+        "product_name": "Atomy Absolute Snow Dark Spot Corrector",
+        "distributor_price": 1062.0,
+        "pv_points": 7000,
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D01526"
+    },
+    {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/01513_2.jpg",
         "gds": "D01513",
         "product_name": "Atomy Absolute 24K Gold Night Mask",
@@ -686,6 +694,22 @@
         "distributor_price": 1003.0,
         "pv_points": 5000,
         "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00400"
+    },
+    {
+        "product_image": "https://www.atomy.com/in/shopping/p_img/100/00397_2.jpg",
+        "gds": "D00397",
+        "product_name": "Atomy Air Pact #23",
+        "distributor_price": 1575.0,
+        "pv_points": 9300,
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00397"
+    },
+    {
+        "product_image": "https://www.atomy.com/in/shopping/p_img/100/00396_2.jpg",
+        "gds": "D00396",
+        "product_name": "Atomy Air Pact #21",
+        "distributor_price": 1575.0,
+        "pv_points": 9300,
+        "product_url": "https://www.atomy.com/in/Home/Product/ProductView?GdsCode=D00396"
     },
     {
         "product_image": "https://www.atomy.com/in/shopping/p_img/100/00295_2.jpg",
